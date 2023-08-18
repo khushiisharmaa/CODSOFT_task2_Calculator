@@ -15,7 +15,11 @@ CalcUniquely is a simple calculator program written in Python that allows users 
    ```sh
    git clone https://github.com/khushiisharmaa/CODSOFT_task2_Calculator.git
 
-2. Run the program.
+2. Navigate to the project directory.
+
+   cd CalcUniquely
+
+3. Run the program.
 
    python calculator.py
 
